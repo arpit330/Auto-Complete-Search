@@ -1,0 +1,12 @@
+.search-bar-container {
+    max-width: 500px;
+    margin: auto;
+}
+.searchh-container{
+    width: 300;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically (optional) */
+    height: 100vh;
+
+}
